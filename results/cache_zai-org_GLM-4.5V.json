@@ -1,0 +1,182 @@
+{
+  "planes/1.jpeg": {
+    "confidence": 0.99,
+    "label": "civilian",
+    "rationale": "The aircraft displays a commercial airline livery (Rossiya) and lacks military-specific features such as weapon pylons, refueling booms, or military markings.",
+    "raw": "{\"confidence\":0.99,\"label\":\"civilian\",\"rationale\":\"The aircraft displays a commercial airline livery (Rossiya) and lacks military-specific features such as weapon pylons, refueling booms, or military markings.\"}"
+  },
+  "planes/10.jpeg": {
+    "confidence": 0.9,
+    "label": "civilian",
+    "rationale": "The model lacks military-specific features such as weapon pylons, refueling booms, or distinct military markings; its design and markings suggest a non-military (civilian) context.",
+    "raw": "{\"confidence\":0.9,\"label\":\"civilian\",\"rationale\":\"The model lacks military-specific features such as weapon pylons, refueling booms, or distinct military markings; its design and markings suggest a non-military (civilian) context.\"}"
+  },
+  "planes/11.png": {
+    "confidence": 0.95,
+    "label": "military",
+    "rationale": "The aircraft exhibits a stealth design, single cockpit, and lacks civilian features such as commercial livery or passenger windows, consistent with military fighter jets.",
+    "raw": "{\"confidence\":0.95,\"label\":\"military\",\"rationale\":\"The aircraft exhibits a stealth design, single cockpit, and lacks civilian features such as commercial livery or passenger windows, consistent with military fighter jets.\"}"
+  },
+  "planes/12.png": {
+    "confidence": 0.95,
+    "label": "civilian",
+    "rationale": "The aircraft lacks military-specific features such as weapon pylons, refueling booms, or distinctive military markings/serial numbers. Its design (small propeller plane with standard civilian configuration) indicates it is a civilian aircraft.",
+    "raw": "{\"confidence\":0.95,\"label\":\"civilian\",\"rationale\":\"The aircraft lacks military-specific features such as weapon pylons, refueling booms, or distinctive military markings/serial numbers. Its design (small propeller plane with standard civilian configuration) indicates it is a civilian aircraft.\"}"
+  },
+  "planes/13.png": {
+    "confidence": 0.95,
+    "label": "military",
+    "rationale": "The aircraft silhouette shows a pointed nose, sleek aerodynamic shape, and overall design characteristic of a fighter jet, which is typically military. No civilian features like large passenger windows or commercial livery are present.",
+    "raw": "{\"confidence\":0.95,\"label\":\"military\",\"rationale\":\"The aircraft silhouette shows a pointed nose, sleek aerodynamic shape, and overall design characteristic of a fighter jet, which is typically military. No civilian features like large passenger windows or commercial livery are present.\"}"
+  },
+  "planes/14.png": {
+    "confidence": 0.95,
+    "label": "military",
+    "rationale": "The aircraft depicted are fighter jets, characterized by their aerodynamic design and typical military aircraft structure, which are distinct from civilian aircraft.",
+    "raw": "{\"confidence\":0.95,\"label\":\"military\",\"rationale\":\"The aircraft depicted are fighter jets, characterized by their aerodynamic design and typical military aircraft structure, which are distinct from civilian aircraft.\"}"
+  },
+  "planes/15.png": {
+    "confidence": 0.95,
+    "label": "military",
+    "rationale": "The silhouette shows a sleek, angular design with wing configurations typical of fighter jets, which are exclusively military aircraft.",
+    "raw": "{\"confidence\":0.95,\"label\":\"military\",\"rationale\":\"The silhouette shows a sleek, angular design with wing configurations typical of fighter jets, which are exclusively military aircraft.\"}"
+  },
+  "planes/16.png": {
+    "confidence": 0.9,
+    "label": "civilian",
+    "rationale": "The silhouette shows multiple passenger windows and a typical commercial aircraft structure, lacking military-specific features like weapon pylons or",
+    "raw": "{\"confidence\":0.9,\"label\":\"civilian\",\"rationale\":\"The silhouette shows multiple passenger windows and a typical commercial aircraft structure, lacking military-specific features like weapon pylons or\"}"
+  },
+  "planes/17.png": {
+    "confidence": 0.9,
+    "label": "civilian",
+    "rationale": "The airplane is a toy with no military features such as weapon pylons, camouflage, or military insignia, indicating it is modeled after a civilian aircraft.",
+    "raw": "{\"confidence\":0.9,\"label\":\"civilian\",\"rationale\":\"The airplane is a toy with no military features such as weapon pylons, camouflage, or military insignia, indicating it is modeled after a civilian aircraft.\"}"
+  },
+  "planes/18.png": {
+    "confidence": 0.95,
+    "label": "military",
+    "rationale": "The aircraft displays a military insignia (German cross) and has a design consistent with historical military aircraft (e.g., twin-engine configuration, cockpit layout for crew rather than passengers).",
+    "raw": "{\"confidence\":0.95,\"label\":\"military\",\"rationale\":\"The aircraft displays a military insignia (German cross) and has a design consistent with historical military aircraft (e.g., twin-engine configuration, cockpit layout for crew rather than passengers).\"}"
+  },
+  "planes/19.png": {
+    "confidence": 0.95,
+    "label": "military",
+    "rationale": "The aircraft exhibits a stealthy, angular design typical of modern military fighters, with no visible civilian features such as commercial livery, passenger windows, or civilian registration markings.",
+    "raw": "{\"confidence\":0.95,\"label\":\"military\",\"rationale\":\"The aircraft exhibits a stealthy, angular design typical of modern military fighters, with no visible civilian features such as commercial livery, passenger windows, or civilian registration markings.\"}"
+  },
+  "planes/2.jpeg": {
+    "confidence": 0.95,
+    "label": "military",
+    "rationale": "The aircraft exhibits a stealth design (angular surfaces, dark coloration) typical of military combat aircraft. It lacks civilian livery, commercial windows, or other non-military features.",
+    "raw": "{\"confidence\":0.95,\"label\":\"military\",\"rationale\":\"The aircraft exhibits a stealth design (angular surfaces, dark coloration) typical of military combat aircraft. It lacks civilian livery, commercial windows, or other non-military features.\"}"
+  },
+  "planes/20.png": {
+    "confidence": 0.95,
+    "label": "military",
+    "rationale": "The aircraft features olive drab paint, a military-style star insignia, and a design consistent with historical military fighter planes, lacking civilian livery or commercial features.",
+    "raw": "{\"confidence\":0.95,\"label\":\"military\",\"rationale\":\"The aircraft features olive drab paint, a military-style star insignia, and a design consistent with historical military fighter planes, lacking civilian livery or commercial features.\"}"
+  },
+  "planes/21.png": {
+    "confidence": 0.95,
+    "label": "military",
+    "rationale": "The aircraft features an olive drab military livery, a roundel insignia typical of military aircraft, and a design consistent with historical military fighters/bombers.",
+    "raw": "{\"confidence\":0.95,\"label\":\"military\",\"rationale\":\"The aircraft features an olive drab military livery, a roundel insignia typical of military aircraft, and a design consistent with historical military fighters/bombers.\"}"
+  },
+  "planes/22.png": {
+    "confidence": 0.95,
+    "label": "civilian",
+    "rationale": "The aircraft lacks military-specific features (e.g., weapon pylons, camouflage, military insignia) and displays characteristics of civilian transport planes, such as numerous passenger windows and a generic commercial livery.",
+    "raw": "{\"confidence\":0.95,\"label\":\"civilian\",\"rationale\":\"The aircraft lacks military-specific features (e.g., weapon pylons, camouflage, military insignia) and displays characteristics of civilian transport planes, such as numerous passenger windows and a generic commercial livery.\"}"
+  },
+  "planes/23.png": {
+    "confidence": 0.95,
+    "label": "civilian",
+    "rationale": "The aircraft lacks military-specific features (e.g., weapon pylons, refueling booms, military livery/insignia) and has multiple passenger windows, consistent",
+    "raw": "{\"confidence\":0.95,\"label\":\"civilian\",\"rationale\":\"The aircraft lacks military-specific features (e.g., weapon pylons, refueling booms, military livery/insignia) and has multiple passenger windows, consistent\"}"
+  },
+  "planes/24.png": {
+    "confidence": 0.95,
+    "label": "military",
+    "rationale": "The aircraft exhibits a stealth design with angular surfaces, lacks civilian livery or commercial windows, and has structural features (e.g., integrated weapon bays, aerodynamic profile) typical of military fighter jets.",
+    "raw": "{\"confidence\":0.95,\"label\":\"military\",\"rationale\":\"The aircraft exhibits a stealth design with angular surfaces, lacks civilian livery or commercial windows, and has structural features (e.g., integrated weapon bays, aerodynamic profile) typical of military fighter jets.\"}"
+  },
+  "planes/25.png": {
+    "confidence": 0.95,
+    "label": "military",
+    "rationale": "The aircraft’s design features (aerodynamic shape, single-seat cockpit, technical schematic style) align with military fighter jets rather than",
+    "raw": "{\"confidence\":0.95,\"label\":\"military\",\"rationale\":\"The aircraft’s design features (aerodynamic shape, single-seat cockpit, technical schematic style) align with military fighter jets rather than\"}"
+  },
+  "planes/26.png": {
+    "confidence": 0.95,
+    "label": "civilian",
+    "rationale": "The aircraft has numerous passenger windows, lacks military-specific features (weapons, refueling booms, military livery/serials), and resembles a commercial airliner.",
+    "raw": "{\"confidence\":0.95,\"label\":\"civilian\",\"rationale\":\"The aircraft has numerous passenger windows, lacks military-specific features (weapons, refueling booms, military livery/serials), and resembles a commercial airliner.\"}"
+  },
+  "planes/27.png": {
+    "confidence": 0.95,
+    "label": "military",
+    "rationale": "The aircraft exhibits a sleek, aerodynamic design with a pointed nose and compact structure typical of military fighter jets. It lacks commercial livery, passenger windows, or other civilian aircraft features",
+    "raw": "{\"confidence\":0.95,\"label\":\"military\",\"rationale\":\"The aircraft exhibits a sleek, aerodynamic design with a pointed nose and compact structure typical of military fighter jets. It lacks commercial livery, passenger windows, or other civilian aircraft features\"}"
+  },
+  "planes/28.png": {
+    "confidence": 0.9,
+    "label": "civilian",
+    "rationale": "The aircraft lacks military-specific features (e.g., weapon pylons, refueling booms, military insignia) and exhibits",
+    "raw": "{\"confidence\":0.9,\"label\":\"civilian\",\"rationale\":\"The aircraft lacks military-specific features (e.g., weapon pylons, refueling booms, military insignia) and exhibits\"}"
+  },
+  "planes/29.png": {
+    "confidence": 0.95,
+    "label": "civilian",
+    "rationale": "The aircraft lacks military-specific features (e.g., weapon pylons, camouflage, military insignia) and shows civilian characteristics such as passenger boarding via stairs and a commercial-style livery.",
+    "raw": "{\"confidence\":0.95,\"label\":\"civilian\",\"rationale\":\"The aircraft lacks military-specific features (e.g., weapon pylons, camouflage, military insignia) and shows civilian characteristics such as passenger boarding via stairs and a commercial-style livery.\"}"
+  },
+  "planes/3.jpeg": {
+    "confidence": 0.99,
+    "label": "civilian",
+    "rationale": "The aircraft is a Boeing 737-800, a common civilian airliner model. No military features such as weapon pylons, refueling booms, or military markings are present. The context of a pilot taking a selfie further supports civilian operation.",
+    "raw": "{\"confidence\":0.99,\"label\":\"civilian\",\"rationale\":\"The aircraft is a Boeing 737-800, a common civilian airliner model. No military features such as weapon pylons, refueling booms, or military markings are present. The context of a pilot taking a selfie further supports civilian operation.\"}"
+  },
+  "planes/30.jpg": {
+    "confidence": 0.95,
+    "label": "military",
+    "rationale": "The aircraft exhibits military characteristics such as a fighter jet design, national insignia (red star), and structural features typical of combat aircraft (e.g., wing hardpoints). No civilian livery or commercial features are present.",
+    "raw": "{\"confidence\":0.95,\"label\":\"military\",\"rationale\":\"The aircraft exhibits military characteristics such as a fighter jet design, national insignia (red star), and structural features typical of combat aircraft (e.g., wing hardpoints). No civilian livery or commercial features are present.\"}"
+  },
+  "planes/4.jpeg": {
+    "confidence": 0.9,
+    "label": "military",
+    "rationale": "The aircraft exhibits characteristics typical of military planes, such as its propeller-driven fighter design, sleek aerodynamic",
+    "raw": "{\"confidence\":0.9,\"label\":\"military\",\"rationale\":\"The aircraft exhibits characteristics typical of military planes, such as its propeller-driven fighter design, sleek aerodynamic\"}"
+  },
+  "planes/5.jpeg": {
+    "confidence": 1,
+    "label": "civilian",
+    "rationale": "The airplane has no military markings, weapon pylons, or other military-specific features; its design (e.g., large passenger-style windows) aligns with civilian aircraft.",
+    "raw": "{\"confidence\":1,\"label\":\"civilian\",\"rationale\":\"The airplane has no military markings, weapon pylons, or other military-specific features; its design (e.g., large passenger-style windows) aligns with civilian aircraft.\"}"
+  },
+  "planes/6.jpeg": {
+    "confidence": 0.9,
+    "label": "civilian",
+    "rationale": "The aircraft has a non-military livery, large passenger-style windows, and lacks military-specific features like weapon pylons or refueling booms.",
+    "raw": "{\"confidence\":0.9,\"label\":\"civilian\",\"rationale\":\"The aircraft has a non-military livery, large passenger-style windows, and lacks military-specific features like weapon pylons or refueling booms.\"}"
+  },
+  "planes/7.jpeg": {
+    "confidence": 0.95,
+    "label": "military",
+    "rationale": "The aircraft is a fighter jet with a sleek, aerodynamic design typical of military aircraft. It lacks civilian features such as commercial airline livery or",
+    "raw": "{\"confidence\":0.95,\"label\":\"military\",\"rationale\":\"The aircraft is a fighter jet with a sleek, aerodynamic design typical of military aircraft. It lacks civilian features such as commercial airline livery or\"}"
+  },
+  "planes/8.jpeg": {
+    "confidence": 0.95,
+    "label": "military",
+    "rationale": "The vessel exhibits characteristics typical of military craft, such as large-scale design, absence of civilian markings (e.g., commercial logos",
+    "raw": "{\"confidence\":0.95,\"label\":\"military\",\"rationale\":\"The vessel exhibits characteristics typical of military craft, such as large-scale design, absence of civilian markings (e.g., commercial logos\"}"
+  },
+  "planes/9.jpeg": {
+    "confidence": 0.95,
+    "label": "civilian",
+    "rationale": "The aircraft displays characteristics of a commercial airliner, including standard passenger windows, absence of military markings or equipment (e.g., weapon pylons, refueling booms), and a generic livery consistent with civilian aviation.",
+    "raw": "{\"confidence\":0.95,\"label\":\"civilian\",\"rationale\":\"The aircraft displays characteristics of a commercial airliner, including standard passenger windows, absence of military markings or equipment (e.g., weapon pylons, refueling booms), and a generic livery consistent with civilian aviation.\"}"
+  }
+}

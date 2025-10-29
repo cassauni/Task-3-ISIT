@@ -1,0 +1,16 @@
+              precision    recall  f1-score   support
+
+    civilian       1.00      1.00      1.00        14
+    military       1.00      1.00      1.00        16
+
+    accuracy                           1.00        30
+   macro avg       1.00      1.00      1.00        30
+weighted avg       1.00      1.00      1.00        30
+\n{
+  "model": "Qwen/Qwen3-VL-8B-Instruct",
+  "n": 30,
+  "accuracy": 1.0,
+  "precision_military": 1.0,
+  "recall_military": 1.0,
+  "f1_military": 1.0
+}

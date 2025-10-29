@@ -1,0 +1,31 @@
+filename,true,pred,confidence,rationale
+1.jpeg,civilian,civilian,0.98,The airplane has a commercial airline livery with 'Rossiya' branding and passenger windows  indicating it is a civilian aircraft.
+10.jpeg,civilian,civilian,0.95,The airplane has a vintage design with no visible weapon pylons  military markings  or refueling booms  suggesting it is a civilian aircraft model.
+11.png,military,military,0.98,The aircraft has a stealth design  angular shape  and lacks civilian livery or features  indicating it is a military fighter jet.
+12.png,civilian,civilian,0.95,The airplane has a standard civilian design with no visible military markings  weapon pylons  or refueling booms.
+13.png,military,military,0.95,The airplane has a sleek  combat-oriented design with visible weapon pylons under the wings  typical of military aircraft.
+14.png,military,military,0.95,The aircraft designs show features typical of military jets  such as sleek aerodynamic shapes and lack of civilian livery or passenger windows.
+15.png,military,military,0.95,The silhouette shows a fighter jet with sharp angles and no civilian livery  typical of military aircraft.
+16.png,civilian,civilian,0.95,The airplane has multiple passenger windows and lacks military features like weapon pylons or refueling booms.
+17.png,civilian,civilian,0.95,The airplane has passenger windows and lacks military features like weapon pylons or serial numbers  suggesting it's a civilian model.
+18.png,military,military,0.98,The aircraft features a black cross on its fuselage  a common military insignia from World War II-era German aircraft.
+19.png,military,military,0.95,The aircraft has a sleek  combat-oriented design with no civilian livery or markings  suggesting it is military.
+2.jpeg,military,military,0.98,The aircraft has a stealth design  angular shape  and lacks civilian features like passenger windows or commercial livery.
+20.png,military,military,0.95,The aircraft features a military-style olive drab paint scheme and a star insignia  typical of military planes.
+21.png,military,military,0.95,The aircraft features a roundel marking  which is a military insignia used by the Royal Air Force.
+22.png,civilian,civilian,0.95,The airplane has passenger windows  no weapon pylons or military markings  and a commercial livery style.
+23.png,civilian,civilian,0.95,The airplane has passenger windows and lacks military features like weapon pylons or serial numbers.
+24.png,military,military,0.98,The aircraft has a stealth design  lacks civilian livery or windows  and appears to be equipped for combat.
+25.png,military,military,0.95,The aircraft has a fighter jet design with no civilian livery  and the technical blueprint style suggests a military specification.
+26.png,civilian,civilian,0.95,The airplane has passenger windows and lacks military features like weapon pylons or refueling booms.
+27.png,military,military,0.95,The aircraft has a sleek  combat-oriented design with no civilian livery or markings  and features typical of a fighter jet.
+28.png,civilian,civilian,0.95,The airplane has a passenger-like design with multiple windows and lacks military features such as weapon pylons or serial numbers.
+29.png,civilian,civilian,0.95,The airplane has passenger windows and boarding stairs  with no visible military markings or weapon systems.
+3.jpeg,civilian,civilian,0.98,The aircraft is a Boeing 737-80  a common commercial airliner  with no military markings or weapon systems visible.
+30.jpg,military,military,0.98,The aircraft has military markings  including a red star and serial number '73'  typical of a fighter jet.
+4.jpeg,military,military,0.95,The airplane has a propeller  military-style livery  and lacks civilian features like commercial logos or passenger windows.
+5.jpeg,civilian,civilian,0.95,The airplane has a cartoonish design with no military markings  weapon pylons  or serial numbers  indicating it's civilian.
+6.jpeg,civilian,civilian,0.95,The airplane has a commercial livery  multiple passenger windows  and no visible weapon pylons or military markings.
+7.jpeg,military,military,0.95,The aircraft has a gray military livery  visible weapon pylons under the wings  and lacks civilian features like passenger windows or commercial branding.
+8.jpeg,military,military,0.95,The aircraft resembles an aircraft carrier  which is a military vessel with visible flight deck and catapults.
+9.jpeg,civilian,civilian,0.98,The airplane has a commercial livery  passenger windows  and no visible military features like weapon pylons or serial numbers.
